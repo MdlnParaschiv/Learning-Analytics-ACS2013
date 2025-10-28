@@ -1,0 +1,4 @@
+# Ignorăm fișiere mari de date
+data/*.csv
+*.zip
+*.tar.gz

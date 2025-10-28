@@ -1,0 +1,16 @@
+# ==== Framework principal pentru procesarea datelor ====
+pyspark==3.5.0
+
+# ==== Manipulare date și analize complementare ====
+pandas==2.2.2
+numpy==1.26.4
+
+# ==== Vizualizare și salvare grafice ====
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# ==== Suport general ====
+scikit-learn==1.5.2
+
+# ==== (Opțional) pentru compatibilitate generală ====
+findspark==2.0.1
