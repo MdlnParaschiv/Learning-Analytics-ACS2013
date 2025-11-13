@@ -48,7 +48,7 @@ def main():
     print("✅ Spark pornit, versiune:", spark.version)
 
     # Asigurăm folderul pentru rezultate (grafice etc.)
-    results_dir = "results-updated"
+    results_dir = "results"
     os.makedirs(results_dir, exist_ok=True)
 
     # --------------------------------------------------------
